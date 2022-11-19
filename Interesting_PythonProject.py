@@ -1,2 +1,4 @@
-print("TRY GIT")
-print("second try git")
+print("____________________________________________________________________________________\n")
+print("This is the reference video link: https://www.youtube.com/watch?v=DLn3jOsNRVE&t=185s")
+print("\n____________________________________________________________________________________")
+
