@@ -8,6 +8,7 @@ playing = input("\nDo you want to play? ")
 
 #if playing = yes
 print("\nOkay! Let's play :)")
+score = 0
 
 #Question 1
 answer = input("What does CPU stand for? ")
