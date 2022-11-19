@@ -41,3 +41,8 @@ if answer.lower() == "power supply":
     score += 1
 else:
     print("*****  Incorrect!  *****\n")
+
+print("--------------------------------------------\n")
+print("You got " + str(score) + " questions correct!")
+print("You got " + str((score / 4) * 100) + "%.\n")
+print("--------------------------------------------\n")
